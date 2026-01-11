@@ -2,18 +2,12 @@
 
 ![Header](header.svg)
 
-**A next-generation server software for Minecraft: Bedrock Edition**
-
-*Reliable, Fast, and Feature-rich*
-
 [![Discord](https://img.shields.io/discord/1147136608290750526?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ngkkE4hPTU)
-[![QQ Group](https://img.shields.io/badge/QQ%20Group-1072132791-blue)](https://qm.qq.com/q/dWY5MxbaGK)
-[![Docs](https://img.shields.io/badge/Docs-docs.allaymc.org-green)](https://docs.allaymc.org)
-[![License](https://img.shields.io/badge/License-LGPL--3.0-orange)](https://github.com/AllayMC/Allay/blob/master/LICENSE)
+[![QQ](https://img.shields.io/badge/QQ%20Group-1072132791-blue)](https://qm.qq.com/q/dWY5MxbaGK)
+[![Website](https://img.shields.io/badge/Docs-docs.allaymc.org-green)](https://docs.allaymc.org)
+[![Ko-Fi](https://img.shields.io/badge/Buy_Me_a_Coffee-f37574?logo=kofi&logoColor=white)](https://ko-fi.com/AllayMC)
 
 </div>
-
----
 
 ## About Us
 
